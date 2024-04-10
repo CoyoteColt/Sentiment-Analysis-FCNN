@@ -35,18 +35,22 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## Results
 
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227716594013175949/result_model_v1.png?ex=66296b2d&is=6616f62d&hm=f4a20c059642b153850384c7c717ded850c85de8a4298229dd8783e354511551&" alt="Modelo v1">
+<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227716594013175949/result_model_v1.png?ex=66296b2d&is=6616f62d&hm=f4a20c059642b153850384c7c717ded850c85de8a4298229dd8783e354511551&" alt="Modelo v1"><br>
 
-We were able to achieve an accuracy of 83%. We'll see how the other architectures fare.
+- We were able to achieve an accuracy of 83%. We'll see how the other architectures fare.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
-Link to the second model
+## If you want to reproduce the experiment on your machine, below are the versions used
 
-Long Short-Term Memory (LSTM)  (SOON)
+<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227734807627173938/image.png?ex=66297c24&is=66170724&hm=1762e9a8a1238c8f981d2e78ddd6ab538bf4f12b31d63a1ecd702ea49eed83f4&" alt="version"><br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+- Link to the second model
+
+Model 2 - Long Short-Term Memory-LSTM  (SOON)
