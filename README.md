@@ -35,7 +35,7 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## Results
 
-![Model_v1](image\result_model_v1.png)
+<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227716594013175949/result_model_v1.png?ex=66296b2d&is=6616f62d&hm=f4a20c059642b153850384c7c717ded850c85de8a4298229dd8783e354511551&" alt="Modelo v1">
 
 We were able to achieve an accuracy of 83%. We'll see how the other architectures fare.
 
