@@ -35,9 +35,10 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## Results
 
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227716594013175949/result_model_v1.png?ex=66296b2d&is=6616f62d&hm=f4a20c059642b153850384c7c717ded850c85de8a4298229dd8783e354511551&" alt="Modelo v1"><br>
+<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227716594013175949/result_model_v1.png?ex=66296b2d&is=6616f62d&hm=f4a20c059642b153850384c7c717ded850c85de8a4298229dd8783e354511551&" alt="Model FCNN"><br>
+<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227807839452659823/image.png?ex=6629c028&is=66174b28&hm=fa4ea0ed6ca75dff5e4c069477e9757812ebdbc71e4724058befd641d37c9b93&" alt="Model FCNN"><br>
 
-- We were able to achieve an accuracy of 83%. We'll see how the other architectures fare.
+- We were able to achieve an accuracy of 83% and it only takes us 2 minutes for training. We'll see how the other architectures fare.
 
 <br>
 
@@ -47,10 +48,9 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 - Link to the second model
 
-Model 2 - Long Short-Term Memory-LSTM  (SOON)
+<a href="https://github.com/CoyoteColt/Sentiment-Analysis-LSTM">Model 2 - Long Short-Term Memory-LSTM</a>
+
