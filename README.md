@@ -44,7 +44,7 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## If you want to reproduce the experiment on your machine, below are the versions used
 
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227734807627173938/image.png?ex=66297c24&is=66170724&hm=1762e9a8a1238c8f981d2e78ddd6ab538bf4f12b31d63a1ecd702ea49eed83f4&" alt="version"><br>
+<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227734807627173938/image.png?ex=6641dfe4&is=66408e64&hm=0c510b6efb1e5888cedc0f9007bd894c21e9d4534de7322156470703aba210c6&" alt="version"><br>
 
 <br>
 <br>
