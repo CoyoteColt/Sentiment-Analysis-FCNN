@@ -35,8 +35,8 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## Results
 
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227716594013175949/result_model_v1.png?ex=66296b2d&is=6616f62d&hm=f4a20c059642b153850384c7c717ded850c85de8a4298229dd8783e354511551&" alt="Model FCNN"><br>
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227807839452659823/image.png?ex=6629c028&is=66174b28&hm=fa4ea0ed6ca75dff5e4c069477e9757812ebdbc71e4724058befd641d37c9b93&" alt="Model FCNN"><br>
+<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227716594013175949/result_model_v1.png?ex=6641ceed&is=66407d6d&hm=17a2f4a94d7107643b099b3eefd32d9e1f18777f7cb40d3c3e34324d0f1b297d&" alt="Model FCNN"><br>
+<img src="https://cdn.discordapp.com/attachments/809675955689881640/1239270020434100345/image.png?ex=66424fa5&is=6640fe25&hm=04cc587daaa1a2377b557cefdeb5fdafbd6a20b2cae01469fc7b26aa0d0c83c3&" alt="Model FCNN"><br>
 
 - We were able to achieve an accuracy of 83% and it only takes us 2 minutes for training. We'll see how the other architectures fare.
 
