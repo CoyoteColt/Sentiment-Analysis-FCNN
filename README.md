@@ -18,7 +18,7 @@ In all three projects we will use the same database but manipulate it with diffe
 
 In this first model we will address the FCNN architecture, A Fully Connected Neural Network (FCNN) is a foundational architecture in deep learning where each neuron in one layer is connected to every neuron in the subsequent layer. It consists of input, hidden, and output layers, with neurons applying weighted sums and activation functions to produce outputs. FCNNs are versatile for tasks like classification and regression but may struggle with sequential data processing. Despite this, they remain valuable in scenarios with fixed-size input data or less critical sequential information.
 
-<img src="https://postimg.cc/vgn5YDYk" alt="Fully Connected Neural Network (FCNN)">
+<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244359785508507749/1_VHOUViL8dHGfvxCsswPv-Q.png?ex=6654d3db&is=6653825b&hm=d18b831a801c650605399d3163d17c098b4fb553ac6417af5a7539f745885126&" alt="Fully Connected Neural Network (FCNN)">
 
 ## Techniques used for data processing in the FCNN model
 
