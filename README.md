@@ -35,8 +35,9 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## Results
 
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227716594013175949/result_model_v1.png?ex=6641ceed&is=66407d6d&hm=17a2f4a94d7107643b099b3eefd32d9e1f18777f7cb40d3c3e34324d0f1b297d&" alt="Model FCNN"><br>
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1239270020434100345/image.png?ex=66424fa5&is=6640fe25&hm=04cc587daaa1a2377b557cefdeb5fdafbd6a20b2cae01469fc7b26aa0d0c83c3&" alt="Model FCNN"><br>
+<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244370125000413346/Untitled.png?ex=6654dd7d&is=66538bfd&hm=8d031f4c86fc3d6dfb02ae8a5722ec94c2f8b60cd77110650c80ebb4624f3a45&" alt="Model FCNN"><br>
+<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244370452025966643/1.png?ex=6654ddcb&is=66538c4b&hm=d8a93b86a01a50236bf2f2855931cf1e0634d4c3b559e1da4b211ffbac1c67b7&" alt="Model FCNN"><br>
+<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244370731496640522/3.png?ex=6654de0d&is=66538c8d&hm=c928d6aa9e049c9a8c11d49c7d7631f481e831990b73f1933d9737114539af8b&" alt="Model FCNN"><br>
 
 - We were able to achieve an accuracy of 83% and it only takes us 2 minutes for training. We'll see how the other architectures fare.
 
@@ -44,7 +45,7 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## If you want to reproduce the experiment on your machine, below are the versions used
 
-<img src="https://cdn.discordapp.com/attachments/809675955689881640/1227734807627173938/image.png?ex=6641dfe4&is=66408e64&hm=0c510b6efb1e5888cedc0f9007bd894c21e9d4534de7322156470703aba210c6&" alt="version"><br>
+<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244371114491252766/4.png?ex=6654de68&is=66538ce8&hm=fbedf120be4ac48b0257c8274caf3b166cf76bf0aaca0caca1371bd4b6473ce1&" alt="version"><br>
 
 <br>
 <br>
