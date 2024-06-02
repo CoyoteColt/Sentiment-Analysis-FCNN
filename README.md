@@ -18,7 +18,7 @@ In all three projects we will use the same database but manipulate it with diffe
 
 In this first model we will address the FCNN architecture, A Fully Connected Neural Network (FCNN) is a foundational architecture in deep learning where each neuron in one layer is connected to every neuron in the subsequent layer. It consists of input, hidden, and output layers, with neurons applying weighted sums and activation functions to produce outputs. FCNNs are versatile for tasks like classification and regression but may struggle with sequential data processing. Despite this, they remain valuable in scenarios with fixed-size input data or less critical sequential information.
 
-<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244359785508507749/1_VHOUViL8dHGfvxCsswPv-Q.png?ex=665a19db&is=6658c85b&hm=e71c49fcf175fe02c76af8cb134aea602ec7687a92bddf644817b54532ab6dbd&" alt="Fully Connected Neural Network (FCNN)">
+<img src="image\1.png" alt="Fully Connected Neural Network (FCNN)">
 
 ## Techniques used for data processing in the FCNN model
 
@@ -35,9 +35,9 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## Results
 
-<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244370125000413346/Untitled.png?ex=665a237d&is=6658d1fd&hm=6b18f0973ae87f7c9d1c0710c587805a55b5b0cc0be8834def41d5bb4901feb3&" alt="Model FCNN"><br>
-<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244370452025966643/1.png?ex=665a23cb&is=6658d24b&hm=9cda1149a311c1a7d02457e1133069b4438fc9d371babb1b369ea8d6e6d24cd9&" alt="Model FCNN"><br>
-<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244370731496640522/3.png?ex=665a240d&is=6658d28d&hm=b52747a1106b4acf86a486ed11215a53ec53beaca479692033064a4f9d70df9c&" alt="Model FCNN"><br>
+<img src="image\2.png" alt="Model FCNN"><br>
+<img src="image\3.png" alt="Model FCNN"><br>
+<img src="image\4.png" alt="Model FCNN"><br>
 
 - We were able to achieve an accuracy of 83% and it only takes us 2 minutes for training. We'll see how the other architectures fare.
 
@@ -45,7 +45,7 @@ Another technique that will also be used in the three models, Callbacks end Earl
 
 ## If you want to reproduce the experiment on your machine, below are the versions used
 
-<img src="https://cdn.discordapp.com/attachments/1244359723629936793/1244371114491252766/4.png?ex=665a2468&is=6658d2e8&hm=5f411be1aa44be5bad9cd0308a2a14a39b4bb675d4f736d263c94b0e914d03a3&" alt="version"><br>
+<img src="image\version.png" alt="version"><br>
 
 <br>
 <br>
